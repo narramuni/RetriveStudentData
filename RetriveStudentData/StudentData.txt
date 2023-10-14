@@ -1,0 +1,7 @@
+Rainbow School
+
+10,Sai,Pavan,Good
+20,Sri,Kanta,Good
+30,Jhan,Thamos,Good
+40,samuel,margos,good
+50,srikanta,k,extrordinary

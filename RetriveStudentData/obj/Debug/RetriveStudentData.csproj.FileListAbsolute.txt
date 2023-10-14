@@ -1,0 +1,7 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.exe.config
+C:\Users\SAI PAVAN KUMAR\source\repos\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.pdb
