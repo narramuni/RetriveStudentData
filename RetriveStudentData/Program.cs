@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RetriveStudentData
 {
-    internal class Program
+    internal class Student
     {
         static void Main(string[] args)
         {
